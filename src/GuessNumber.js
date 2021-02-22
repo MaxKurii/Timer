@@ -16,7 +16,7 @@ function GuessNumber(){
     if(value===5){
       alert('super')
     }
-    // setPrint(true)
+     setPrint(true)
   }
 
   return(
